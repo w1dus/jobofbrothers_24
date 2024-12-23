@@ -36,3 +36,4 @@ select::-ms-expand{ display:none; }
     .paging_box{ font-size: 13px; }
 } /* mobile */
 
+#header_24{ background-color: #fff; position: fixed; left: 0; top: 0; width: 100%; z-index: 999; }
